@@ -107,7 +107,6 @@ h1 {
 .grid-item1 {
   text-align: center; }
 
-FIX MOBILE VERSION
 #grid-item-paragraph,
 #grid-item-paragraph-1 {
   display: flex;
@@ -116,24 +115,24 @@ FIX MOBILE VERSION
   justify-content: center;
   padding: 4rem;
   text-align: left; }
-  FIX MOBILE VERSION
-#grid-item-paragraph h2,
+
+  #grid-item-paragraph h2,
   #grid-item-paragraph-1 h2 {
     font-family: "Fraunces", serif; }
-  FIX MOBILE VERSION
-#grid-item-paragraph p,
+
+    #grid-item-paragraph p,
   #grid-item-paragraph-1 p {
     font-family: "Barlow", sans-serif;
     color: #5a636c; }
-  FIX MOBILE VERSION
-#grid-item-paragraph a,
+
+    #grid-item-paragraph a,
   #grid-item-paragraph-1 a {
     font-family: "Barlow", sans-serif;
     color: #5a636c;
     text-decoration: none;
     position: relative; }
-  FIX MOBILE VERSION
-#grid-item-paragraph .yellow-line::before,
+
+    #grid-item-paragraph .yellow-line::before,
   #grid-item-paragraph-1 .yellow-line::before {
     content: "";
     background-color: #fee48e;
@@ -144,14 +143,14 @@ FIX MOBILE VERSION
     height: 10px;
     z-index: -1;
     border-radius: 2px; }
-  FIX MOBILE VERSION
-#grid-item-paragraph .yellow-line:hover::before,
+
+    #grid-item-paragraph .yellow-line:hover::before,
   #grid-item-paragraph-1 .yellow-line:hover::before {
     background-color: #facf48;
     bottom: -2px;
     height: 50%; }
-  FIX MOBILE VERSION
-#grid-item-paragraph .pink-line::before,
+
+    #grid-item-paragraph .pink-line::before,
   #grid-item-paragraph-1 .pink-line::before {
     content: "";
     background-color: #f9a8a0;
@@ -162,8 +161,8 @@ FIX MOBILE VERSION
     height: 10px;
     z-index: -1;
     border-radius: 2px; }
-  FIX MOBILE VERSION
-#grid-item-paragraph .pink-line:hover::before,
+
+    #grid-item-paragraph .pink-line:hover::before,
   #grid-item-paragraph-1 .pink-line:hover::before {
     background-color: #ef6d60;
     bottom: -2px;
