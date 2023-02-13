@@ -63,15 +63,13 @@ UX / UI Design:
 * Host: Netlify
 
 ## What did I learn:
-* A project of this magnitude would have best been replicated with a library such as React
-* I could have benefited from using a CSS preprocessor such as SASS or LESS to save time
+* I learned how to use SASS (SCSS) preprocessor
+* I had problems with some of the SASS dependencies in the json folder and eventually ended up starting the project over again.
+* I should have used the Visual Studio Code SASS extension instead of adding a json package and adding the required dependencies (autoprefixer, concat, node-sass) so that the SASS file would create a CSS file, this was unnecessary and 
 
 ## What problem does it solve?
-* Name, Number of guests, and Message go directly to Client's email
-* Complete Unique and Onen of a kind website Design
+* SASS makes creating websites more convenient
 
-## What makes your project stand out?
-* The simple photo and font animation when you open the page
 
 
 <!-- CONTACT -->
