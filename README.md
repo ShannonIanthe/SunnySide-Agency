@@ -41,17 +41,17 @@ Front End Developer Portfolio Website
 
 UX / UI Design:
 * Design replicated from <a href="https://www.frontendmentor.io/challenges/sunnyside-agency-landing-page-7yVs3B6ef">Frontendmentor.io</a>
-* Aesthetic: modern, bright, bold
-* Colors: 
-- ![#648678](https://placehold.co/15x15/648678/648678.png) `#648678`
-- ![#f0f0f1](https://placehold.co/15x15/f0f0f1/f0f0f1.png) `#f0f0f1`
-- ![#dec664](https://placehold.co/15x15/dec664/dec664.png) `#dec664`
-- ![#A9A9A9](https://placehold.co/15x15/A9A9A9/A9A9A9.png) `#A9A9A9`
+* Aesthetic: modern, bright, bold, captivating
+* Main Colors: 
+- ![#fad400](https://placehold.co/15x15/fad400/fad400.png) `#fad400`
+- ![#25564b](https://placehold.co/15x15/25564b/25564b.png) `#25564b`
+- ![#19536b](https://placehold.co/15x15/19536b/19536b.png) `#19536b`
+- ![#ffffff](https://placehold.co/15x15/ffffff/ffffff.png) `#ffffff`
 * Simple fonts with different weights for Desktop and mobile version
 
-2 Main Fonts from Google Fonts: 
-* "Montserrat", sans-serif;
-* 'Cormorant', serif;
+* Main Fonts from Google Fonts: 
+-  'Fraunces', serif;
+-  'Barlow', sans-serif;
 
 
 
