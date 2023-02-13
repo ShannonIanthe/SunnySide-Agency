@@ -65,7 +65,8 @@ UX / UI Design:
 ## What did I learn:
 * I learned how to use SASS (SCSS) preprocessor
 * I had problems with some of the SASS dependencies in the json folder and eventually ended up starting the project over again.
-* I should have used the Visual Studio Code SASS extension instead of adding a json package and adding the required dependencies (autoprefixer, concat, node-sass) so that the SASS file would create a CSS file, this was unnecessary and 
+* I should have used the Visual Studio Code SASS extension instead of adding a json package and adding the required dependencies (autoprefixer, concat, node-sass) so that the SASS file would create a CSS file, this was unnecessary 
+* Used CSS Grid, as I usually Flexbox
 
 ## What problem does it solve?
 * SASS makes creating websites more convenient
